@@ -1,0 +1,6 @@
+devel_space: /home/client/Documents/semes4/robo/tpnote/test_ros/sheik_ws/devel
+install: false
+install_space: /home/client/Documents/semes4/robo/tpnote/test_ros/sheik_ws/install
+profile: default
+source_space: /home/client/Documents/semes4/robo/tpnote/test_ros/sheik_ws/src
+workspace: /home/client/Documents/semes4/robo/tpnote/test_ros/sheik_ws
